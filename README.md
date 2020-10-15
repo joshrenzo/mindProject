@@ -1,4 +1,8 @@
 Project repository for 2020 - 2021 MIND Project
+
+# Project Documentation
+Please visit our [project wiki](https://github.com/joshrenzo/mindProject/wiki) for the complete documentation. 
+
 # Project Description
 ## Motivation
 Since the advent of COVID-19, the world has seen an unprecedented amount of hospitalizations due to the virus outbreak. In the United States alone, we have seen over 200,000 COVID-related deaths. Of the 200,000 deaths, around 900 were nurses who were working on the front-line in the fight against the virus. Many of these nurses contracted COVID from patients they were treating. As a result, these brave nurses soon found themselves becoming patients in the very hospitals they worked in. In these hard times, we must make sure to protect our nurses as they are the ones who will lead us through this pandemic.
