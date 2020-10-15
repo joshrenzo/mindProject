@@ -1,4 +1,4 @@
-# Insert Project Name Here
+# Smart Biomedical Seating
 Project repository for 2020 - 2021 MIND Project
 
 ## Project Documentation
