@@ -1,7 +1,7 @@
 # Smart Biomedical Seating
 Project repository for 2020 - 2021 MIND Project
 
-## Project Documentation
+## Project Wiki
 Please visit our [project wiki](https://github.com/joshrenzo/mindProject/wiki) for the complete documentation. 
 
 ## Project Description
